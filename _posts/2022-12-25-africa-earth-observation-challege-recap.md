@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recap AAA's Entry into 22's Earth Observation Challenge"
+title: "Africa Earth Observation Challenge 2022"
 date: 2022-12-25
 ---
 
