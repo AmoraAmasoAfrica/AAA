@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![](./assets/images/AmoraAmasoAfricaLogo.jpg)
